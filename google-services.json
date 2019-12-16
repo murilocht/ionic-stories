@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960054800558",
+    "firebase_url": "https://boulevardpetboutique.firebaseio.com",
+    "project_id": "boulevardpetboutique",
+    "storage_bucket": "boulevardpetboutique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960054800558:android:9509400ceeb665e2",
+        "android_client_info": {
+          "package_name": "boulevard.petboutique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960054800558-732a8aibribgbvrjtqo4kvbvip2bt8j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boulevard.petboutique",
+            "certificate_hash": "f4d3e3e634d8c7831b2dcd4ed0b7dbc2a291516f"
+          }
+        },
+        {
+          "client_id": "960054800558-m7b0s3s415gu772hq0qdl5il74ci2361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfat5PsBy-_W0yahML1smS8si7FJXMDpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960054800558-m7b0s3s415gu772hq0qdl5il74ci2361.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
